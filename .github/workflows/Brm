@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>STREET_LEGENDS_GR</title>
+<style>
+body{margin:0;background:#000;color:#fff;font-family:Arial}
+header{padding:20px;border-bottom:1px solid #d4a24c}
+.logo{color:#d4a24c;font-size:32px;font-weight:bold}
+.hero{padding:80px 30px}
+h1{color:#d4a24c;font-size:72px}
+</style>
+</head>
+<body>
+<header><div class="logo">STREET_LEGENDS_GR</div></header>
+<section class="hero">
+<h1>STREET LEGENDS GR</h1>
+<p>ΕΚΕΙ ΠΟΥ ΤΑ ΑΥΤΟΚΙΝΗΤΑ ΓΙΝΟΝΤΑΙ ΘΡΥΛΟΙ</p>
+<p>Συνάντηση: 17/07/2026 - 18:00</p>
+</section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>STREET_LEGENDS_GR</title>
+<style>
+body{margin:0;background:#000;color:#fff;font-family:Arial}
+header{padding:20px;border-bottom:1px solid #d4a24c}
+.logo{color:#d4a24c;font-size:32px;font-weight:bold}
+.hero{padding:80px 30px}
+h1{color:#d4a24c;font-size:72px}
+</style>
+</head>
+<body>
+<header><div class="logo">STREET_LEGENDS_GR</div></header>
+<section class="hero">
+<h1>STREET LEGENDS GR</h1>
+<p>ΕΚΕΙ ΠΟΥ ΤΑ ΑΥΤΟΚΙΝΗΤΑ ΓΙΝΟΝΤΑΙ ΘΡΥΛΟΙ</p>
+<p>Συνάντηση: 17/07/2026 - 18:00</p>
+</section>
+</body>
+</html>
